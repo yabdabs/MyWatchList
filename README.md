@@ -1,4 +1,4 @@
-My Watch List
+# My Watch List
 --------------------------
 This application allows users to create a personal acount, login, and customize their own movie/tv show watch list. Users can add movies/ tv shows to three sections:
 
@@ -11,7 +11,7 @@ Furthermore, you can take notes the movies/ tv shows added. Movie information fr
 Lastly, you can also apply all of the above to video games, which is a whole other section. 
 ----------------------------------
 
-Built With
+## Built With
 
 * JavaScript/ JQuery
 * MySQL
@@ -24,12 +24,12 @@ Built With
 * CSS3
 -----------------------------------
 
-Authors
+## Authors
 
 This was a group project the in the Rutgers Coding Bootcamp. This repo is for my own personal use and future edits. 
 The original group work can be found [HERE](https://github.com/Neex0202/watchlist)
 
-## Original Authors Included:
+### Original Authors Included:
 
 * Abdul Khan (me)
 * Nick Ciccarino -- [Github](https://github.com/nciccarino)
@@ -37,6 +37,6 @@ The original group work can be found [HERE](https://github.com/Neex0202/watchlis
 * Edurdo Moura -- [Github](https://github.com/eddmoura)
 
 ------------------------------
-Acknowledgments
+## Acknowledgments
 
-## Thanks to my group in Rutgers Coding Bootcamp who made this such a fun and challenging project!
+### Thanks to my group in Rutgers Coding Bootcamp who made this such a fun and challenging project!
