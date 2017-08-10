@@ -29,14 +29,14 @@ Authors
 This was a group project the in the Rutgers Coding Bootcamp. This repo is for my own personal use and future edits. 
 The original group work can be found [HERE](https://github.com/Neex0202/watchlist)
 
-Original Authors Included:
+## Original Authors Included:
 
-Abdul Khan (me)
-Nick Ciccarino -- [Github](https://github.com/nciccarino)
-Nico Santa Ana -- [Github](https://github.com/Neex0202)
-Edurdo Moura -- [Github](https://github.com/eddmoura)
+* Abdul Khan (me)
+* Nick Ciccarino -- [Github](https://github.com/nciccarino)
+* Nico Santa Ana -- [Github](https://github.com/Neex0202)
+* Edurdo Moura -- [Github](https://github.com/eddmoura)
 
 ------------------------------
 Acknowledgments
 
-Thanks to my group in Rutgers Coding Bootcamp who made this such a fun and challenging project!
+## Thanks to my group in Rutgers Coding Bootcamp who made this such a fun and challenging project!
