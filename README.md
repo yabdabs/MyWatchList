@@ -9,6 +9,7 @@ This application allows users to create a personal acount, login, and customize 
 Furthermore, you can take notes the movies/ tv shows added. Movie information from the imdb api will also be displayed in a modal when a movie is clicked. 
 
 Lastly, you can also apply all of the above to video games, which is a whole other section. 
+
 ----------------------------------
 
 ## Built With
