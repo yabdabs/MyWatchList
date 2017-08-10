@@ -1,4 +1,4 @@
-# My Watch List
+# [My Watch List](https://mywatch-it.herokuapp.com/)
 --------------------------
 This application allows users to create a personal acount, login, and customize their own movie/tv show watch list. Users can add movies/ tv shows to three sections:
 
